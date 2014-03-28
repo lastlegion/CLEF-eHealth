@@ -1,0 +1,7 @@
+1. Converting to trec_style data
+Use the script data_to_trec.py 
+
+2. Indexing with command ->
+IndriBuildIndex -corpus.path="trec_style/raw_data/" -corpus.class=trecweb -index=indexed_data/ indexing_param.txt 
+
+3.
