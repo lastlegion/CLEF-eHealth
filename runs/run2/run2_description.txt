@@ -1,0 +1,2 @@
+Used stemming for indexing.
+Gave an improvement of 0.3

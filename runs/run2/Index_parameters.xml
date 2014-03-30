@@ -1,0 +1,15 @@
+<parameters>
+    <index>pro_Index</index>
+    <memory>800M</memory>
+    <corpus>
+        <path>/home/ganesh/DATA/trec_style/</path>
+        <class>trecweb</class>
+    </corpus>
+    <stemmer>
+        <name>porter</name>
+    </stemmer>
+    <stopper>
+        <word>stopword</word>
+    </stopper>
+
+</parameters>
