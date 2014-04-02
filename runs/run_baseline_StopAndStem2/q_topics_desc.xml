@@ -1,0 +1,258 @@
+<parameters>
+    <index>/home/ganesh/IR-CLEF-eHealth/pro_Index2</index>
+    <count>100</count>
+    <trecFormat>True</trecFormat>
+    <fbDocs>10</fbDocs>
+    <fbTerms>10</fbTerms>
+    <fbOrigWeight>0.8</fbOrigWeight>
+	<query>
+		<type>indri</type>
+		<number>qtest1</number>
+		<text>#combine(Hypothyreoidism What hypothyreoidism )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2</number>
+		<text>#combine(Facial cuts scar tissue Healing cuts forming scar tissue )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest3</number>
+		<text>#combine(Asystolic arrest asystolic arrest )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest4</number>
+		<text>#combine(nausea vomiting hematemesis What nausea, vomiting hematemesis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest5</number>
+		<text>#combine(Sinus tachycardia What Sinus tachycardia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest6</number>
+		<text>#combine(Chills gallstones What connection chills gallstones )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest7</number>
+		<text>#combine(seizures alcohol withdrawal syndrome Why alcohol withdrawal cause seizures )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest8</number>
+		<text>#combine(Acidosis metastasic adeno carcinoma connection acidosis metastasic adeno carcinoma )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest9</number>
+		<text>#combine(vegetation pulmonic valve vegetation condition pulmonic valve physician )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest10</number>
+		<text>#combine(dysplasia multiple sclerosis connection multiple sclerosis dysplasia oesophagus )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest11</number>
+		<text>#combine(chest pain liver transplantation chest pain hinder transplantation liver )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest12</number>
+		<text>#combine(clots jugular HIV clots jugular connection HIV )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest13</number>
+		<text>#combine(hepatosplenomegaly hepatosplenomegaly )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest14</number>
+		<text>#combine(frothy sputum care avoid frothy sputum )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest15</number>
+		<text>#combine(shortness breath swelling shortness breath connection swelling )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest16</number>
+		<text>#combine(weakness sepsis weakness predict sepsis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest17</number>
+		<text>#combine(urinary tract infection ciprofloxacin ciprofloxacin urinary tract infection )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest18</number>
+		<text>#combine(aspiration pneumonia pharyngeal dysphagia avoid aspiration pneumonia pharyngeal dysphagia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest19</number>
+		<text>#combine(abnominal pain helicobacter pylori cancer abdominal pain due helicobacter pylori symptom cancer )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest20</number>
+		<text>#combine(ulcerative colitis hypotension Can ulcerative colitis cause hypotension )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest21</number>
+		<text>#combine(Incision care care incision home )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest22</number>
+		<text>#combine(subdural hematoma treatment recovery possibilities recovery  subdural hematoma )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest23</number>
+		<text>#combine(type 1 diabetes malignant hypertension connection type 1 diabetes malignant hypertension )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest24</number>
+		<text>#combine(coronary artery disease bypass grafting coronary artery disease coronary artery bypass grafting )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest25</number>
+		<text>#combine(passing gas bowel obstruction mean bowel obstruction passing gas mean connection obstruction )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest26</number>
+		<text>#combine(shortness breath aortic valve replacement shortness breath indicate aortic valve replacement )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest27</number>
+		<text>#combine(rhonchi rhonchi )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest28</number>
+		<text>#combine(bruises raccoon eyes blood disease bruises raccoon eyes symptoms blood disease )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest29</number>
+		<text>#combine(aortic stenosis treatment prognosis treatment aortic stenosis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest30</number>
+		<text>#combine(metabolic acidosis metabolic acidosis treated )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest31</number>
+		<text>#combine(endocarditis endocarditis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest32</number>
+		<text>#combine(SOB SOB )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest33</number>
+		<text>#combine(thigh pain hip replacement operation pain normal connection hip replacement opeartion )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest34</number>
+		<text>#combine(Gastritis bloody stool ASA Is ASA patient bloody stool gastritis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest35</number>
+		<text>#combine(solid organ solid organs )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest36</number>
+		<text>#combine(lightheadedness symptom cause lightheadedness )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest37</number>
+		<text>#combine(chronic renal insufficiency chronic renal insufficiency )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest38</number>
+		<text>#combine(MI hereditary MI hereditary )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest39</number>
+		<text>#combine(coronary artery disease myocardial infarction difference coronary artery disease myocardial infarction )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest40</number>
+		<text>#combine(chronic alcoholic induced pancreatitis jaundice jaundice indication pancreatitis advanced )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest41</number>
+		<text>#combine(macular hemorrhage mean macular hemorrhage )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest42</number>
+		<text>#combine(COPD COPD )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest43</number>
+		<text>#combine(bilateral infiltrates x-ray bilateral infiltrates diagnosed x-rays )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest44</number>
+		<text>#combine(erythema necrosis diabetes mellitus erythema indication necrosis connection diabetes mellitus )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest45</number>
+		<text>#combine(symptoms disease aortic insufficiency symptoms aortic insufficiency type disease )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest46</number>
+		<text>#combine(symptoms hypo- hyper-glycemia  symptoms hypo- hyper-glycemia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest47</number>
+		<text>#combine(sacral ulcer care care possibilities sacral ulcer )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest48</number>
+		<text>#combine(HA HA )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest49</number>
+		<text>#combine(white blood cells bacteria serious bacteria white blood cells )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest50</number>
+		<text>#combine(Hypogammaglobulinemia Hypogammaglobulinemia death serious )</text>
+	</query>
+</parameters>
