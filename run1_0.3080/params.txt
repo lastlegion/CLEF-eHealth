@@ -1,0 +1,9 @@
+﻿ IndriBuildIndex -memory=1G -corpus.path="trec_style/raw_data/" -corpus.class=trecweb -index=indexed_WO_data/  
+
+IndriRunQuery -index="../indexed_WO_data/" -count=100 "q5_indri.xml" -runID=1 -trecFormat=true > run1_day2.txt
+
+/trec_eval ../2013data/qrels.clef2013ehealth.1-50-test.bin.final.txt  ../2013data/run1_day2.txt > evaluations/overall_run1.txt
+
+./trec_eval -q ../2013data/qrels.clef2013ehealth.1-50-test.bin.final.txt  ../2013data/run1_day2.txt > evaluations/querywise_run1.txt
+
+
