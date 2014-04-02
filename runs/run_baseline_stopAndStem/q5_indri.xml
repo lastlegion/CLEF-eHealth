@@ -1,0 +1,258 @@
+<parameters>
+    <index>/home/ganesh/IR-CLEF-eHealth/pro_Index2</index>
+    <count>100</count>
+    <trecFormat>True</trecFormat>
+    <fbDocs>10</fbDocs>
+    <fbTerms>10</fbTerms>
+    <fbOrigWeight>0.8</fbOrigWeight>
+	<query>
+		<type>indri</type>
+		<number>qtest1</number>
+		<text>#combine(What is hypothyreoidism )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2</number>
+		<text>#combine(Healing of cuts and forming of scar tissue )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest3</number>
+		<text>#combine(what is asystolic arrest )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest4</number>
+		<text>#combine(What are nausea, vomiting and hematemesis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest5</number>
+		<text>#combine(What is Sinus tachycardia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest6</number>
+		<text>#combine(What is the connection between chills and gallstones )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest7</number>
+		<text>#combine(Why does alcohol withdrawal cause seizures )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest8</number>
+		<text>#combine(what is the connection between acidosis and metastasic adeno carcinoma )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest9</number>
+		<text>#combine(why is the vegetation condition of pulmonic valve in the interest of the physician )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest10</number>
+		<text>#combine(is there a connection between multiple sclerosis and dysplasia in oesophagus )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest11</number>
+		<text>#combine(can chest pain hinder the transplantation of liver )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest12</number>
+		<text>#combine(is clots in jugular in connection with HIV )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest13</number>
+		<text>#combine(what is hepatosplenomegaly )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest14</number>
+		<text>#combine(how to avoid frothy sputum )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest15</number>
+		<text>#combine(is shortness of breath in connection with swelling )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest16</number>
+		<text>#combine(can weakness predict sepsis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest17</number>
+		<text>#combine(for how long should one get ciprofloxacin for urinary tract infection )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest18</number>
+		<text>#combine(how to avoid aspiration pneumonia if one has pharyngeal dysphagia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest19</number>
+		<text>#combine(is abdominal pain due to helicobacter pylori a symptom of cancer )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest20</number>
+		<text>#combine(Can ulcerative colitis cause hypotension )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest21</number>
+		<text>#combine(how to take care of an incision at home )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest22</number>
+		<text>#combine(the possibilities of recovery  after subdural hematoma )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest23</number>
+		<text>#combine(what is the connection between type 1 diabetes and malignant hypertension )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest24</number>
+		<text>#combine(coronary artery disease and coronary artery bypass with grafting )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest25</number>
+		<text>#combine(what does it mean to have a bowel obstruction and what does the passing of gas mean in connection with obstruction )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest26</number>
+		<text>#combine(what does shortness of breath indicate after aortic valve replacement )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest27</number>
+		<text>#combine(what is rhonchi )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest28</number>
+		<text>#combine(can bruises and raccoon eyes be symptoms of blood disease )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest29</number>
+		<text>#combine(what is prognosis and the treatment for aortic stenosis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest30</number>
+		<text>#combine(what is metabolic acidosis and how can it be treated )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest31</number>
+		<text>#combine(what is endocarditis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest32</number>
+		<text>#combine(what is SOB )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest33</number>
+		<text>#combine(is pain normal in connection after hip replacement opeartion )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest34</number>
+		<text>#combine(Is it possible to use ASA if the patient has bloody stool and gastritis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest35</number>
+		<text>#combine(what are solid organs )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest36</number>
+		<text>#combine(what can cause lightheadedness )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest37</number>
+		<text>#combine(what is chronic renal insufficiency )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest38</number>
+		<text>#combine(what is MI and is it hereditary )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest39</number>
+		<text>#combine(what is the difference between coronary artery disease and myocardial infarction )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest40</number>
+		<text>#combine(is jaundice an indication that the pancreatitis has advanced )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest41</number>
+		<text>#combine(what does it mean to have right macular hemorrhage )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest42</number>
+		<text>#combine(what is COPD )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest43</number>
+		<text>#combine(how are bilateral infiltrates diagnosed from x-rays )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest44</number>
+		<text>#combine(is erythema an indication of necrosis in connection with diabetes mellitus )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest45</number>
+		<text>#combine(what are the symptoms of aortic insufficiency and what type of disease is that )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest46</number>
+		<text>#combine(what are the  symptoms of hypo- and hyper-glycemia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest47</number>
+		<text>#combine(what are the care possibilities of sacral ulcer )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest48</number>
+		<text>#combine(what is HA )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest49</number>
+		<text>#combine(how serious it is to have bacteria in white blood cells )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest50</number>
+		<text>#combine(is Hypogammaglobulinemia death serious )</text>
+	</query>
+</parameters>
