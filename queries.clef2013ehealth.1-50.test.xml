@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<queries>
+<query>
+<id>qtest1</id>
+<discharge_summary>00098-016139-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Hypothyreoidism</title>
+<desc>What is hypothyreoidism</desc>
+<narr>description of what type of disease hypothyreoidism is</narr>
+<profile>A forty year old woman, who seeks information about her condition</profile>
+</query>
+
+<query>
+<id>qtest2</id>
+<discharge_summary>01314-028800-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Facial cuts and scar tissue</title>
+<desc>Healing of cuts and forming of scar tissue</desc>
+<narr>wounds or cuts in face and scar tissue</narr>
+<profile>A 70 year old man who wants to know about scars and how painful they are and how long time does it take for them to disappear from the face</profile>
+</query>
+
+<query>
+<id>qtest3</id>
+<discharge_summary>02115-010823-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Asystolic arrest</title>
+<desc>what is asystolic arrest</desc>
+<narr>asystolic arrest and why does it cause death</narr>
+<profile>A 87 year old woman with a stroke and asystolic arrest dies and the daughter wants to know about asystolic arrest and what it means.</profile>
+</query>
+
+<query>
+<id>qtest4</id>
+<discharge_summary>02136-017465-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>nausea and vomiting and hematemesis</title>
+<desc>What are nausea, vomiting and hematemesis</desc>
+<narr>What is the connection with nausea, vomiting and hematemesis</narr>
+<profile>A 64-year old emigrant who is not sure what nausea, vomiting and hematemesis mean in his discharge summary</profile>
+</query>
+
+<query>
+<id>qtest5</id>
+<discharge_summary>02410-026171-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Sinus tachycardia</title>
+<desc>What is Sinus tachycardia</desc>
+<narr>Sinus tachycardia</narr>
+<profile>A 71-year old man who has had problems with his heart and has now first time symptoms of Sinus tachycardia and wants to know more about that</profile>
+</query>
+
+<query>
+<id>qtest6</id>
+<discharge_summary>02652-006395-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Chills and gallstones</title>
+<desc>What is the connection between chills and gallstones</desc>
+<narr>a description of gallstones and symptoms in connection with them.</narr>
+<profile>A 79-year old gentleman who wants to know why doctor is asking about chills in connection with gallstones. He seeks info by himself.</profile>
+</query>
+
+<query>
+<id>qtest7</id>
+<discharge_summary>03273-009330-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>seizures and alcohol withdrawal syndrome</title>
+<desc>Why does alcohol withdrawal cause seizures</desc>
+<narr>seizures and alcohol withdrawal syndrome</narr>
+<profile>A 47-year old male who visits a substance abuse consultant and discusses alcohol withdrawal symptoms with the consultant. Together they seek info from the internet.</profile>
+</query>
+
+<query>
+<id>qtest8</id>
+<discharge_summary>04266-000520-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Acidosis and metastasic adeno carcinoma</title>
+<desc>what is the connection between acidosis and metastasic adeno carcinoma</desc>
+<narr>Acidosis and metastasic adeno carcinoma</narr>
+<profile>A 76-year old man who dies from metastatic adeno carcinoma. The family is wondering about the asidocis and its connection with carcinoma.</profile>
+</query>
+
+<query>
+<id>qtest9</id>
+<discharge_summary>04269-027967-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>vegetation and pulmonic valve</title>
+<desc>why is the vegetation condition of pulmonic valve in the interest of the physician</desc>
+<narr>vegetation in pulmonic valves</narr>
+<profile>A 39-year old Patient wants to know what the physician means with vegetation suspected in pulmonic valves</profile>
+</query>
+
+<query>
+<id>qtest10</id>
+<discharge_summary>07352-013977-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>dysplasia and multiple sclerosis</title>
+<desc>is there a connection between multiple sclerosis and dysplasia in oesophagus</desc>
+<narr>dysplasia in oesophagus and multiple sclerosis</narr>
+<profile>A 67-year old male who has a long history of Multiple Sclerosis and wants to know what is dysplasia and is it common when one has Multiple sclerosis</profile>
+</query>
+
+<query>
+<id>qtest11</id>
+<discharge_summary>07514-025655-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>chest pain and liver transplantation</title>
+<desc>can chest pain hinder the transplantation of liver</desc>
+<narr>liver transplantation and chest pain</narr>
+<profile>A 46-year-old male who is waiting for liver transplantation and wants to know why the doctor was interested in his chest pain</profile>
+</query>
+
+<query>
+<id>qtest12</id>
+<discharge_summary>07726-023607-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>clots in jugular and HIV</title>
+<desc>is clots in jugular in connection with HIV</desc>
+<narr>clots in jugular and HIV</narr>
+<profile>The 46-year old woman with end stage renal disease and polysubstance abuse is depressed and wants to find out about her chance of having HIV.</profile>
+</query>
+
+<query>
+<id>qtest13</id>
+<discharge_summary>08114-027513-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>hepatosplenomegaly</title>
+<desc>what is hepatosplenomegaly</desc>
+<narr>hepatopsplenomegaly</narr>
+<profile>A 60-year old female with previous history of a heart operation and has now severe infection. However in her discharge summary the doctor has ruled out hepatosplenomegaly and now she wants to know what that is.</profile>
+</query>
+
+<query>
+<id>qtest14</id>
+<discharge_summary>08703-021487-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>frothy sputum and care</title>
+<desc>how to avoid frothy sputum</desc>
+<narr>frothy sputum and how to avoid and care for this condition</narr>
+<profile>A 43-year old male with down Syndrome lives in an extended care facility. The personnel wants to know if they can avoid frothy sputum in connection with the patient's chronic aspiration and status post laryngectomy</profile>
+</query>
+
+<query>
+<id>qtest15</id>
+<discharge_summary>08951-002958-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>shortness of breath and swelling</title>
+<desc>is shortness of breath in connection with swelling</desc>
+<narr>shortness of breath and swelling</narr>
+<profile>A 71-year old male who has had problems with his heart and has now shortness of breath and swelling. He wants to know if these two symptoms are connected</profile>
+</query>
+
+<query>
+<id>qtest16</id>
+<discharge_summary>09001-000036-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>weakness and sepsis</title>
+<desc>can weakness predict sepsis</desc>
+<narr>symptoms of sepsis especially weakness</narr>
+<profile>An 88-year old female has had a weakness episode. The nursing home is concerned about the weakness episodes that the patient keeps having and could they prevent them somehow</profile>
+</query>
+
+<query>
+<id>qtest17</id>
+<discharge_summary>09337-018472-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>urinary tract infection and ciprofloxacin</title>
+<desc>for how long should one get ciprofloxacin for urinary tract infection</desc>
+<narr>ciprofloxacin treatment for urinary tract infection</narr>
+<profile>An 84-year old female patient had an urinary infection that was treated with ciprofloxacin for three days. The nursing home personnel wants to know if the course of antibiotics was long enough.</profile>
+</query>
+
+<query>
+<id>qtest18</id>
+<discharge_summary>10644-007491-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>aspiration pneumonia and pharyngeal dysphagia</title>
+<desc>how to avoid aspiration pneumonia if one has pharyngeal dysphagia</desc>
+<narr>aspiration pneumonia in connection with pharyngeal dysphagia</narr>
+<profile>A 78-year old left-handed priest who still works and does not want to aspirate during ceremonies He wants to know how to avoid aspiration pneumonia since he has pharyngeal dysphagia.</profile>
+</query>
+
+<query>
+<id>qtest19</id>
+<discharge_summary>11439-014138-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>abnominal pain and helicobacter pylori and cancer</title>
+<desc>is abdominal pain due to helicobacter pylori a symptom of cancer</desc>
+<narr>cancer, helicobacter pylori and abdominal pain</narr>
+<profile>A 60-year-old male who knows that helicobacter pylori is causing cancer and now wants to know if his current abdominal pain could be a symptom of cancer</profile>
+</query>
+
+<query>
+<id>qtest20</id>
+<discharge_summary>11762-027273-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>ulcerative colitis and hypotension</title>
+<desc>Can ulcerative colitis cause hypotension</desc>
+<narr>ulcerative colitis and its symptoms</narr>
+<profile>A 63-year old female who has a past of mental problems and ulcerative colitis. She is now very worried about her situation and thinks if her colitis ulcerosa is causing her to faint.</profile>
+</query>
+
+<query>
+<id>qtest21</id>
+<discharge_summary>11823-007872-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Incision and care</title>
+<desc>how to take care of an incision at home</desc>
+<narr>care of an incision</narr>
+<profile>A 26-year old male who has had an unexpected heart condition and has an incision. He wants to know how he should take care of it, so that it wont get infected.</profile>
+</query>
+
+<query>
+<id>qtest22</id>
+<discharge_summary>12748-021750-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>subdural hematoma and treatment and recovery</title>
+<desc>the possibilities of recovery  after subdural hematoma</desc>
+<narr>subdural hematoma and its treatment and recovery</narr>
+<profile>This elderly female is a resident of a nursing home and her family is insecure about the condition. They want to know more about subdural hematoma and recovery</profile>
+</query>
+
+<query>
+<id>qtest23</id>
+<discharge_summary>13033-020154-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>type 1 diabetes and malignant hypertension</title>
+<desc>what is the connection between type 1 diabetes and malignant hypertension</desc>
+<narr>type 1 diabetes and malignant hypertension</narr>
+<profile>A 34-year-old male with history of type 1 diabetes wants to know what is the connection with his disease and malignant hypertension</profile>
+</query>
+
+<query>
+<id>qtest24</id>
+<discharge_summary>14822-000161-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>coronary artery disease and bypass with grafting</title>
+<desc>coronary artery disease and coronary artery bypass with grafting</desc>
+<narr>coronary artery disease and its treatment with coronary artery bypass with grafting</narr>
+<profile>A family of a 78-year old female wants to know how lasting and stable the condition of their mother is now that she has had coronary artery bypass with grafting for her coronary artery disease.</profile>
+</query>
+
+<query>
+<id>qtest25</id>
+<discharge_summary>14888-014879-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>passing gas and bowel obstruction</title>
+<desc>what does it mean to have a bowel obstruction and what does the passing of gas mean in connection with obstruction</desc>
+<narr>bowel obstruction and passing of gas</narr>
+<profile>The patient is a 78-year old female who has had a coronary artery bypass. She also had an episode of bowel obstruction. Now her family wants to know if that can repeat at home and what does the passing of gas mean in connection with this condition.</profile>
+</query>
+
+<query>
+<id>qtest26</id>
+<discharge_summary>14897-025566-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>shortness of breath after aortic valve replacement</title>
+<desc>what does shortness of breath indicate after aortic valve replacement</desc>
+<narr>shortness of breath as a symptom of heart problems and heart operation</narr>
+<profile>This young 33-year old male has a past with aortic valve replacement. Now he has shortness of breath and he is afraid of a new operation.  He wants to know about the possibilities.</profile>
+</query>
+
+<query>
+<id>qtest27</id>
+<discharge_summary>15272-026154-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>rhonchi</title>
+<desc>what is rhonchi</desc>
+<narr>rhonchi</narr>
+<profile>A 51-year old female has problems understanding her discharge summary and she wants to know what is rhonchi.</profile>
+</query>
+
+<query>
+<id>qtest28</id>
+<discharge_summary>16013-015541-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>bruises and raccoon eyes and blood disease</title>
+<desc>can bruises and raccoon eyes be symptoms of blood disease</desc>
+<narr>bruises and raccoon eyes and blood disease</narr>
+<profile>This 87-year old female has had several incidences of abdominal pain with no clear reason. The family now wants to seek information about her bruises and raccoon eyes. Could they be a cause of some blood disease</profile>
+</query>
+
+<query>
+<id>qtest29</id>
+<discharge_summary>16044-019401-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>aortic stenosis and treatment</title>
+<desc>what is prognosis and the treatment for aortic stenosis</desc>
+<narr>aortic stenosis, its prognosis and treatment</narr>
+<profile>A 58-year old woman is puzzled about her condition and wants to know if the treatment has cured her disease and also how serious the condition that she has is.</profile>
+</query>
+
+<query>
+<id>qtest30</id>
+<discharge_summary>16597-023618-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>metabolic acidosis</title>
+<desc>what is metabolic acidosis and how can it be treated</desc>
+<narr>metabolic acidosis and its treatment</narr>
+<profile>The family of this 87-year old previously rather healthy man wants to understand the patients condition better and they seek information about metabolic acidosis and treatment</profile>
+</query>
+
+<query>
+<id>qtest31</id>
+<discharge_summary>16888-003484-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>endocarditis</title>
+<desc>what is endocarditis</desc>
+<narr>endocarditis</narr>
+<profile>The home care of this female with many diseases is concerned about the possibility of endocarditis and they want to know more about it.</profile>
+</query>
+
+<query>
+<id>qtest32</id>
+<discharge_summary>16994-022078-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>SOB</title>
+<desc>what is SOB</desc>
+<narr>SOB</narr>
+<profile>This female patient wants to know what is the abbreviation in her discharge summary. She thinks it has something to do with HIV.</profile>
+</query>
+
+<query>
+<id>qtest33</id>
+<discharge_summary>17090-026395-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>thigh pain and hip replacement operation</title>
+<desc>is pain normal in connection after hip replacement opeartion</desc>
+<narr>thigh pain and hip replacement operation</narr>
+<profile>This 65-year old male has had a hip replacement and has a lot of pain. He wants to know if this pain is normal and how long it lasts.</profile>
+</query>
+
+<query>
+<id>qtest34</id>
+<discharge_summary>17217-011306-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Gastritis and bloody stool and ASA</title>
+<desc>Is it possible to use ASA if the patient has bloody stool and gastritis</desc>
+<narr>Gastritis and bloody stool and ASA</narr>
+<profile>A 42-year old male that wants to know about the connection of bloody stool, gastritis and ASA</profile>
+</query>
+
+<query>
+<id>qtest35</id>
+<discharge_summary>17336-021181-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>solid organ</title>
+<desc>what are solid organs</desc>
+<narr>solid organs</narr>
+<profile>A young female that was in a car accident wants to know what are solid organs</profile>
+</query>
+
+<query>
+<id>qtest36</id>
+<discharge_summary>17473-000673-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>lightheadedness and symptom</title>
+<desc>what can cause lightheadedness</desc>
+<narr>lightheadedness</narr>
+<profile>A 43-year old female has lightheadeness after hysterectomy and she wonders what could cause it this time.</profile>
+</query>
+
+<query>
+<id>qtest37</id>
+<discharge_summary>17522-024788-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>chronic renal insufficiency</title>
+<desc>what is chronic renal insufficiency</desc>
+<narr>chronic renal insufficiency</narr>
+<profile>This active elderly (76 y.) lady wants to know more about chronic renal insufficiency.</profile>
+</query>
+
+<query>
+<id>qtest38</id>
+<discharge_summary>18321-022756-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>MI and hereditary</title>
+<desc>what is MI and is it hereditary</desc>
+<narr>MI</narr>
+<profile>This 50-year old female is worried about what is MI, that her father has and is this condition hereditary. She does not want additional trouble on top of her current illness.</profile>
+</query>
+
+<query>
+<id>qtest39</id>
+<discharge_summary>19649-021294-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>coronary artery disease and myocardial infarction</title>
+<desc>what is the difference between coronary artery disease and myocardial infarction</desc>
+<narr>coronary artery disease and myocardial infarction</narr>
+<profile>A 54-year-old male with a history of coronary artery disease wants to know the difference between his condition and his brothers and fathers condition, which is myocardial infarction</profile>
+</query>
+
+<query>
+<id>qtest40</id>
+<discharge_summary>19791-003873-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>chronic alcoholic induced pancreatitis and jaundice</title>
+<desc>is jaundice an indication that the pancreatitis has advanced</desc>
+<narr>chronic alcoholic induced pancreatitis and jaundice in connection with it</narr>
+<profile>This 55-year old woman with a chronic pancreatitis is worried that her condition is getting worse. She wants to know more about jaundice and her condition.</profile>
+</query>
+
+<query>
+<id>qtest41</id>
+<discharge_summary>20038-028322-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>right macular hemorrhage</title>
+<desc>what does it mean to have right macular hemorrhage</desc>
+<narr>right macular hemorrhage</narr>
+<profile>A 50-year old woman is very worried about the right macular hemorrhage and wants to know more about the condition.</profile>
+</query>
+
+<query>
+<id>qtest42</id>
+<discharge_summary>20288-027184-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>COPD</title>
+<desc>what is COPD</desc>
+<narr>COPD</narr>
+<profile>The family of this 81-year old man want to know what is COPD</profile>
+</query>
+
+<query>
+<id>qtest43</id>
+<discharge_summary>21305-020227-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>bilateral infiltrates and x-ray</title>
+<desc>how are bilateral infiltrates diagnosed from x-rays</desc>
+<narr>diagnosing bilateral infiltrates from x-rays</narr>
+<profile>The nurse taking care of the patient in the hospital is interested to find out more about bilateral infiltrates in lungs and how they look like in x-rays.</profile>
+</query>
+
+<query>
+<id>qtest44</id>
+<discharge_summary>21633-029484-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>erythema and necrosis and diabetes mellitus</title>
+<desc>is erythema an indication of necrosis in connection with diabetes mellitus</desc>
+<narr>erythema and necrosis and diabetes mellitus</narr>
+<profile>Patient with diabetes mellitus and several other diseases wants to know if the erythema  in his lower extremities are an indication of necrosis</profile>
+</query>
+
+<query>
+<id>qtest45</id>
+<discharge_summary>21745-025001-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>symptoms and disease of aortic insufficiency</title>
+<desc>what are the symptoms of aortic insufficiency and what type of disease is that</desc>
+<narr>symptoms and disease of aortic insufficiency</narr>
+<profile>The home helper of this 87-year old lady wants to know more about the symptoms of aortic insufficiency and how to avoid the condition in order to explain these to the lady.</profile>
+</query>
+
+<query>
+<id>qtest46</id>
+<discharge_summary>22739-020612-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>symptoms of hypo- and hyper-glycemia</title>
+<desc>what are the  symptoms of hypo- and hyper-glycemia</desc>
+<narr>symptoms of hypo- and hyper-glycemia</narr>
+<profile>This young man, just newly diagnosed with Diabetes mellitus wants to be alert of the symptoms that he should avoid. He wants to know more about the symptoms as much as possible.</profile>
+</query>
+
+<query>
+<id>qtest47</id>
+<discharge_summary>22743-004908-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>sacral ulcer and care</title>
+<desc>what are the care possibilities of sacral ulcer</desc>
+<narr>sacral ulcer and care</narr>
+<profile>This 54-year old women has advanced cancer among other problems and now a sacral ulcer. Her loving children want to take care of the ulcer as well as they can. They want to know about the care possibilities.</profile>
+</query>
+
+<query>
+<id>qtest48</id>
+<discharge_summary>22821-026994-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>HA</title>
+<desc>what is HA</desc>
+<narr>HA</narr>
+<profile>This young male with HIV is puzzled about the abbreviation of HA in his discharge summary, since he was very nervous at the time of discharge and worried about his possibly worsening condition.</profile>
+</query>
+
+<query>
+<id>qtest49</id>
+<discharge_summary>23590-017830-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>white blood cells and bacteria</title>
+<desc>how serious it is to have bacteria in white blood cells</desc>
+<narr>white blood cells and bacteria</narr>
+<profile>The patient wants to know about bacteria in white blood cells and how serious her condition is.</profile>
+</query>
+
+<query>
+<id>qtest50</id>
+<discharge_summary>24432-013472-DISCHARGE_SUMMARY.txt</discharge_summary>
+<title>Hypogammaglobulinemia</title>
+<desc>is Hypogammaglobulinemia death serious</desc>
+<narr>Hypogammaglobulinemia and its consequences</narr>
+<profile>The daughter of this nice gentleman wants to know if hypogammaglobulinemia has anything to do with her father's death.</profile>
+</query>
+</queries>
