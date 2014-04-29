@@ -2,251 +2,251 @@
 	<query>
 		<type>indri</type>
 		<number>qtest1</number>
-		<text>#combine(Hypothyreoidism Hypothyroidism What hypothyreoidism hypothyroidism )</text>
+		<text>#weight( 0.6 #combine( hypothyreoidism what hypothyreoidism hypothyreoidism hypothyreoidism ) 0.4 #combine( hypo-thyroidism hts ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest2</number>
-		<text>#combine(Facial cuts and scar tissue Healing cuts forming scar tissue )</text>
+		<text>#weight( 0.6 #combine( facial cuts scar tissue healing cuts forming scar tissue ) 0.3 #combine(histic histionic tissues) 0.1 #combine(form cut heal histic histionic tissues cut ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest3</number>
-		<text>#combine(Asystolic arrest asystolic arrest )</text>
+		<text>#weight( 0.6 #combine( asystolic arrest asystolic arrest ) 0.3 #combine(inhibit inhibited inhibiting) 0.1 #combine(inhibits arrested arresting arrests restrain restrained restraining retard retarded retarding retards asystolia asystolia ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest4</number>
-		<text>#combine(nausea and vomiting and hematemesis What nausea, nausea vomiting hematemesis )</text>
+		<text>#weight( 0.6 #combine( nausea vomiting hematemesis what nausea vomiting hematemesis ) 0.3 #combine(haematemesis vomit haematemesis) 0.1 #combine(vomit ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest5</number>
-		<text>#combine(Sinus tachycardia What Sinus tachycardia )</text>
+		<text>#weight( 0.6 #combine( sinus tachycardia what sinus tachycardia ) 0.3 #combine(tachy tachys tachycardial) 0.1 #combine(tachycardic sinusal tachy tachys tachycardial tachycardic sinusal ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest6</number>
-		<text>#combine(Chills and gallstones What connection chills gallstones )</text>
+		<text>#weight( 0.6 #combine( chills gallstones what connection chills gallstones ) 0.3 #combine(gallstone gss chill) 0.1 #combine(connexion connected connectional connectedness gallstone gss chill ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest7</number>
-		<text>#combine(seizures and alcohol withdrawal syndrome Why alcohol withdrawal cause seizures )</text>
+		<text>#weight( 0.6 #combine( seizures alcohol withdrawal syndrome why alcohol withdrawal cause seizures ) 0.3 #combine(seizure wds alcoholic) 0.1 #combine(syndromal seizure ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest8</number>
-		<text>#combine(Acidosis and metastasic metastasis adeno adenoid carcinoma connection acidosis metastasic metastasis adeno adenoid carcinoma )</text>
+		<text>#weight( 0.6 #combine( acidosis metastasic adeno carcinoma connection acidosis metastasic adeno carcinoma adeno metastasic adeno metastasic ) 0.3 #combine(cas acidosic acidotic) 0.1 #combine(connexion connected connectional connectedness adenoidal met mets meta-static metastatic met metastaticity ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest9</number>
-		<text>#combine(vegetation and pulmonic valve vegetation condition pulmonic valve physician )</text>
+		<text>#weight( 0.6 #combine( vegetation pulmonic valve vegetation condition pulmonic valve physician ) 0.3 #combine(medicus physicians valval) 0.1 #combine(valvar valved valva valvae lung lungs pneumal pneumonic pulmonary pul pulm pulmonal pneumonia pneumoniae pneumonias pne pnes pns conditional conditioned conditionality vegetational ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest10</number>
-		<text>#combine(dysplasia and multiple sclerosis connection multiple sclerosis dysplasia oesophagus )</text>
+		<text>#weight( 0.6 #combine( dysplasia multiple sclerosis connection multiple sclerosis dysplasia oesophagus ) 0.3 #combine(esophagus eso esoph) 0.1 #combine(dysplasic dysplastic scler sclerotic mult connexion connected connectional connectedness ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest11</number>
-		<text>#combine(chest pain and liver transplantation chest pain hinder transplantation liver )</text>
+		<text>#weight( 0.6 #combine( chest pain liver transplantation chest pain hinder transplantation liver ) 0.3 #combine(liver transplantation lts hepatic) 0.1 #combine(livers tpl txp txs pns torminal painful pains painfulness chs pectoral thoracic chested chesty breast breasts chests thor chestiness mammary tpl txp txs hepatic livers ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest12</number>
-		<text>#combine(clots in jugular and HIV clots jugular connection HIV )</text>
+		<text>#weight( 0.6 #combine( clots jugular hiv clots jugular connection hiv hiv hiv ) 0.3 #combine(human immuno deficiency virus human immuno-deficiency virus human immunodeficiency virus) 0.1 #combine(human immunodeficiency viruses connexion connected connectional connectedness clot human immuno deficiency virus human immuno-deficiency virus human immunodeficiency virus human immunodeficiency viruses clot human immuno deficiency virus human immuno-deficiency virus human immunodeficiency virus human immunodeficiency viruses ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest13</number>
-		<text>#combine(hepatosplenomegaly hepatosplenomegaly )</text>
+		<text>#weight( 0.6 #combine( hepatosplenomegaly hepatosplenomegaly ) 0.3 #combine(hepato-splenomegaly hsm hepato-splenomegalic) 0.1 #combine(hepatosplenomegalic ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest14</number>
-		<text>#combine(frothy sputum and care avoid frothy sputum )</text>
+		<text>#weight( 0.6 #combine( frothy sputum care avoid frothy sputum ) 0.3 #combine(froth frothiness careful) 0.1 #combine(carefulness froth frothiness ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest15</number>
-		<text>#combine(shortness of breath and swelling shortness breath connection swelling )</text>
+		<text>#weight( 0.6 #combine( shortness breath swelling shortness breath connection swelling ) 0.3 #combine(swell connexion connected) 0.1 #combine(connectional connectedness breathy breathiness short shorter shortest shortage swell breathy breathiness short shorter shortest shortage ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest16</number>
-		<text>#combine(weakness and sepsis weakness predict sepsis )</text>
+		<text>#weight( 0.6 #combine( weakness sepsis weakness predict sepsis ) 0.3 #combine(septic septicity weak) 0.1 #combine(septic septicity ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest17</number>
-		<text>#combine(urinary tract infection and ciprofloxacin ciprofloxacin urinary tract infection )</text>
+		<text>#weight( 0.6 #combine( urinary tract infection ciprofloxacin ciprofloxacin urinary tract infection ) 0.3 #combine(inf infected infectious) 0.1 #combine(infectuous inf infectedness infectiosity infectiousness infectivity cip cpf cpfx ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest18</number>
-		<text>#combine(aspiration pneumonia and pharyngeal dysphagia avoid aspiration pneumonia pharyngeal dysphagia )</text>
+		<text>#weight( 0.6 #combine( aspiration pneumonia pharyngeal dysphagia avoid aspiration pneumonia pharyngeal dysphagia ) 0.3 #combine(dysphagic pne pnes) 0.1 #combine(pns pneumonic lung lungs pneumal pulmonary pulmonic pulmonal aspirational dysphagic pne pnes pns pneumonic lung lungs pneumal pulmonary pulmonic pulmonal aspirational ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest19</number>
-		<text>#combine(abnominal abdominal pain and helicobacter helicopter pylori and cancer abdominal pain due helicobacter helicopter pylori symptom cancer )</text>
+		<text>#weight( 0.6 #combine( abnominal pain helicobacter pylori cancer abdominal pain due helicobacter pylori symptom cancer helicobacter helicobacter abnominal ) 0.3 #combine(carcinomatous cas cancerous) 0.1 #combine(cancers cancerosity cancerousness sympt pylorus pns torminal painful pains painfulness abd abds abs abd abds abs ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest20</number>
-		<text>#combine(ulcerative colitis and hypotension Can ulcerative colitis cause hypotension )</text>
+		<text>#weight( 0.6 #combine( ulcerative colitis hypotension can ulcerative colitis cause hypotension ) 0.3 #combine(colonitis colitic colitides) 0.1 #combine(colonitis colitic colitides ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest21</number>
-		<text>#combine(Incision and care care incision home )</text>
+		<text>#weight( 0.6 #combine( incision care care incision home ) 0.3 #combine(homey homy incisional) 0.1 #combine(careful carefulness ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest22</number>
-		<text>#combine(subdural hematoma and treatment and recovery possibilities recovery subdural hematoma )</text>
+		<text>#weight( 0.6 #combine( subdural hematoma treatment recovery possibilities recovery subdural hematoma ) 0.3 #combine(haematoma sub-dural rec) 0.1 #combine(possibility possible poss txs sub-dural ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest23</number>
-		<text>#combine(type 1 diabetes and malignant hypertension connection type diabetes malignant hypertension )</text>
+		<text>#weight( 0.6 #combine( type 1 diabetes malignant hypertension connection type diabetes malignant hypertension ) 0.3 #combine(hyper tension hyper-tension hpt) 0.1 #combine(hpts htn hts hypertense hypertensioned hypertenseness hypertensity typal connexion connected connectional connectedness connectedness ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest24</number>
-		<text>#combine(coronary artery disease and bypass with grafting coronary artery disease coronary artery bypass grafting )</text>
+		<text>#weight( 0.6 #combine( coronary artery disease bypass grafting coronary artery disease coronary artery bypass grafting ) 0.3 #combine(by-pass bps arterial) 0.1 #combine(arterious arteria arteriae arteriosity aas coronary disease cds cor cors dis mal mals diseases multiangle light scattering cor cors ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest25</number>
-		<text>#combine(passing gas and bowel obstruction mean bowel obstruction passing gas mean connection obstruction )</text>
+		<text>#weight( 0.6 #combine( passing gas bowel obstruction mean bowel obstruction passing gas mean connection obstruction ) 0.3 #combine(connexion connected connectional) 0.1 #combine(connectedness gallic acid gallium gamblers anonymous gamma interferon activation site gamma-interferon activation site gamma-interferon-activation site gastric acid secretion gastric analysis gastric antrum gastrin gastrins gastro-enterology gastrocnemii gastrocnemius gastroenterology geldanamycin general adaptation syndrome general anaesthesia general anesthesia general appearance generalised anxiety syndrome generalised arteriosclerosis generalized anxiety syndrome generalized arteriosclerosis genetic algorithm gentisic acid geographic atrophy georgia gestational age getting along gibberellic acid gibberellin a gingivoaxial glatiramer acetate global anxiety score global assessment scale glucaric acid glucoamylase glucuronic acid glutamic acid glutaminase glutaraldehyde glutaric acid glycated albumin glycidamide glycol aldehyde glycolaldehyde glycolic acid glycollic acid glycyrrhetic acid glycyrrhetinic acid glycyrrhizic acid glyoxylic acid goal attainment scale goal attainment scaling goal-attainment scale goal-attainment scaling golgi apparatus golgi apparatuses golgi-apparatus gouty arthritis gramicidin a gramicidin-a granulocyte adherence granulocyte agglutination granuloma annulare group a streptococci group a streptococcus guessed average gum arabic gut-associated gyrate atrophy ifn-gamma activation site ifn-gamma-activation site ifngamma activation site ifngamma-activation site interferon gamma activation site interferon-gamma activation site interferon-gamma-activation site gamma-interferon activation sites gastric acid secretions gastric analyses gastric antra general appearances generalized arterioscleroses genetic algorithms georgias global anxiety scores global assessment scales glucoamylases glucuronic acids glutamic acids glutaminases glycated albumins goal attainment scales gouty arthritides guessed averages gyrate atrophies ifn-gamma activation sites interferon-gamma activation sites cidex glutaral gastro-enterologic gastro-enterological gastroenterologic gastroenterological georgian ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest26</number>
-		<text>#combine(shortness of breath after aortic valve replacement shortness breath indicate aortic valve replacement )</text>
+		<text>#weight( 0.6 #combine( shortness breath aortic valve replacement shortness breath indicate aortic valve replacement ) 0.3 #combine(valval valvar valved) 0.1 #combine(valva valvae breathy breathiness short shorter shortest shortage valval valvar valved valva valvae ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest27</number>
-		<text>#combine(rhonchi rhonchi )</text>
+		<text>#weight( 0.6 #combine( rhonchi rhonchi ) 0.4 #combine( rhonchus ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest28</number>
-		<text>#combine(bruises and raccoon eyes and blood disease bruises raccoon eyes symptoms blood disease )</text>
+		<text>#weight( 0.6 #combine( bruises raccoon eyes blood disease bruises raccoon eyes symptoms blood disease ) 0.3 #combine(dis mal mals) 0.1 #combine(diseases multiangle light scattering hemal hematal hematic hemic sanguineous blooded bloody blood vessel bloods sanguinous bloodedness bloodiness vascular sanguinity vascularity sanguine symptom sympt eye ocular ophthalmic optic oculi oculus ophthalmia ophthalmias racoon bruise contund contuse contused bruised bruising dis mal mals diseases multiangle light scattering hemal hematal hematic hemic sanguineous blooded bloody blood vessel bloods sanguinous bloodedness bloodiness vascular sanguinity vascularity sanguine eye ocular ophthalmic optic oculi oculus ophthalmia ophthalmias racoon bruise ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest29</number>
-		<text>#combine(aortic stenosis and treatment prognosis treatment aortic stenosis )</text>
+		<text>#weight( 0.6 #combine( aortic stenosis treatment prognosis treatment aortic stenosis ) 0.3 #combine(sten stenotic stenoticity) 0.1 #combine(txs pxs ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest30</number>
-		<text>#combine(metabolic acidosis metabolic acidosis treated )</text>
+		<text>#weight( 0.6 #combine( metabolic acidosis metabolic acidosis treated ) 0.3 #combine(treat acidosic acidotic) 0.1 #combine(metabolic acidosis met mets met mets ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest31</number>
-		<text>#combine(endocarditis endocarditis )</text>
+		<text>#weight( 0.6 #combine( endocarditis endocarditis ) 0.4 #combine( encarditis endocarditic endocarditides ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest32</number>
-		<text>#combine(SOB SOB )</text>
+		<text>#weight( 0.6 #combine( sob sob ) 0.3 #combine(season of birth shortness of breath sulfur oxidising bacterium) 0.1 #combine(sulfur oxidizing bacterium sulfur-oxidising bacterium sulfur-oxidizing bacterium sulphur oxidising bacterium sulphur oxidizing bacterium sulphur-oxidising bacterium sulphur-oxidizing bacterium sulfur-oxidizing bacteria ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest33</number>
-		<text>#combine(thigh pain and hip replacement operation pain normal connection hip replacement opeartion operation )</text>
+		<text>#weight( 0.6 #combine( thigh pain hip replacement operation pain normal connection hip replacement opeartion opeartion ) 0.3 #combine(connexion connected connectional) 0.1 #combine(connectedness nls nml nor nos pns torminal painful pains painfulness ops operational operationality hip pain femoral fem thighs ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest34</number>
-		<text>#combine(Gastritis and bloody stool and ASA Is ASA patient bloody stool gastritis )</text>
+		<text>#weight( 0.6 #combine( gastritis bloody stool asa is asa patient bloody stool gastritis asa asa ) 0.3 #combine(gastritic blood bloodiness) 0.1 #combine(bloods hemal hematal hematic hemic sanguineous blooded blood vessel sanguinous bloodedness vascular pts accessible surface area acetyl salicylic acid acetylsalicylic acid active systemic anaphylaxis acute severe asthma alcohol septal ablation allele specific amplification allele-specific amplification american society of anaesthesiology american society of anesthesiologists american society of anesthesiology american stroke association anterior septal artery anterior spinal artery anti-sperm antibody antisperm antibody argininosuccinic acid aryl sulfatase a aryl sulfatase-a aryl sulphatase a aryl sulphatase-a arylsulfatase a arylsulfatase-a arylsulphatase a arylsulphatase-a ascorbate ascorbic acid aspirin sensitive asthma aspirin-sensitive asthma atrial septal aneurysm accessible surface areas alcohol septal ablations allele-specific amplifications anterior septal arteries anterior spinal arteries antisperm antibodies argininosuccinic acids ascorbic acids atrial septal aneurysms cecon cenolate cevalin cevex vitamin c vitamin-c vitamine c accessible surface area acetyl salicylic acid acetylsalicylic acid active systemic anaphylaxis acute severe asthma alcohol septal ablation allele specific amplification allele-specific amplification american society of anaesthesiology american society of anesthesiologists american society of anesthesiology american stroke association anterior septal artery anterior spinal artery anti-sperm antibody antisperm antibody argininosuccinic acid aryl sulfatase a aryl sulfatase-a aryl sulphatase a aryl sulphatase-a arylsulfatase a arylsulfatase-a arylsulphatase a arylsulphatase-a ascorbate ascorbic acid aspirin sensitive asthma aspirin-sensitive asthma atrial septal aneurysm accessible surface areas alcohol septal ablations allele-specific amplifications anterior septal arteries anterior spinal arteries antisperm antibodies argininosuccinic acids ascorbic acids atrial septal aneurysms cecon cenolate cevalin cevex vitamin c vitamin-c vitamine c blood bloodiness bloods hemal hematal hematic hemic sanguineous blooded blood vessel sanguinous bloodedness vascular gastritic ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest35</number>
-		<text>#combine(solid organ solid organs )</text>
+		<text>#weight( 0.6 #combine( solid organ solid organs ) 0.3 #combine(sol sols sol) 0.1 #combine(sols ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest36</number>
-		<text>#combine(lightheadedness lightheartedness and symptom cause lightheadedness lightheartedness )</text>
+		<text>#weight( 0.6 #combine( lightheadedness symptom cause lightheadedness lightheadedness lightheadedness ) 0.3 #combine(light headedness light-headedness light headed) 0.1 #combine(light-headed lightheaded sympt light-heartedness light hearted light-hearted lighthearted ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest37</number>
-		<text>#combine(chronic renal insufficiency chronic renal insufficiency )</text>
+		<text>#weight( 0.6 #combine( chronic renal insufficiency chronic renal insufficiency ) 0.4 #combine( insufficient insufficience ren ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest38</number>
-		<text>#combine(MI and hereditary MI hereditary )</text>
+		<text>#weight( 0.6 #combine( mi hereditary mi hereditary ) 0.4 #combine( hereditariness ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest39</number>
-		<text>#combine(coronary artery disease and myocardial infarction difference coronary artery disease myocardial infarction )</text>
+		<text>#weight( 0.6 #combine( coronary artery disease myocardial infarction difference coronary artery disease myocardial infarction ) 0.3 #combine(infarcted infarctional infarct) 0.1 #combine(infarcts myocardial disease mds myo-cardial myocardiac myocardia myocardium dis mal mals diseases multiangle light scattering arterial arterious arteria arteriae arteriosity aas cor cors diff different differential differentiality differentness cor cors ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest40</number>
-		<text>#combine(chronic alcoholic induced pancreatitis and jaundice jaundice indication pancreatitis advanced )</text>
+		<text>#weight( 0.6 #combine( chronic alcoholic induced pancreatitis jaundice jaundice indication pancreatitis advanced ) 0.4 #combine( adv pancreatitic induce ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest41</number>
-		<text>#combine(right macular hemorrhage mean macular hemorrhage )</text>
+		<text>#weight( 0.6 #combine( macular hemorrhage mean macular hemorrhage ) 0.3 #combine(haemorrhage staxis hemorrhages) 0.1 #combine(macula maculae macularity maculas mac macs macula maculae macularity maculas mac macs ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest42</number>
-		<text>#combine(COPD COPD )</text>
+		<text>#weight( 0.6 #combine( copd copd copd copd ) 0.3 #combine(chronic obstructive pulmonary disease chronic obstructive pulmonary diseases cop) 0.1 #combine(center of pressure cholesterol oxidation product cholesterol oxidation products chronic obstructive parotitis circumoval precipitin coat protein colloid oncotic pressure colloid osmotic pressure colloid-oncotic pressure copenhagen copper resistance operon copy number copy-number copynumber coronary oxygen persufflation cryptogenic organising pneumonia cryptogenic organizing pneumonia cyclophosphamide, oncovin (vincristine), and prednisone circumoval precipitins coat proteins colloid oncotic pressures colloid osmotic pressures copynumbers ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest43</number>
-		<text>#combine(bilateral infiltrates and x-ray bilateral infiltrates diagnosed x-rays )</text>
+		<text>#weight( 0.6 #combine( bilateral infiltrates xray bilateral infiltrates diagnosed xrays xrays xray ) 0.3 #combine(diagnose infiltrate bil) 0.1 #combine(bils x ray x-ray xrs infiltrate bil bils ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest44</number>
-		<text>#combine(erythema and necrosis and diabetes mellitus erythema indication necrosis connection diabetes mellitus )</text>
+		<text>#weight( 0.6 #combine( erythema necrosis diabetes mellitus erythema indication necrosis connection diabetes mellitus ) 0.3 #combine(connexion connected connectional) 0.1 #combine(connectedness nec necr necrotic erythemal ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest45</number>
-		<text>#combine(symptoms and disease of aortic insufficiency symptoms aortic insufficiency type disease )</text>
+		<text>#weight( 0.6 #combine( symptoms disease aortic insufficiency symptoms aortic insufficiency type disease ) 0.3 #combine(dis mal mals) 0.1 #combine(diseases multiangle light scattering typal insufficient insufficience symptom sympt aortic disease ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest46</number>
-		<text>#combine(symptoms of hypo- and hyper-glycemia hyper-hypoglycemia symptoms hypo- hyper-glycemia hyper-hypoglycemia )</text>
+		<text>#weight( 0.6 #combine( symptoms hypo hyperglycemia symptoms hypo hyperglycemia ) 0.3 #combine(hyper glycaemia hyper glycemia hyper-glycaemia) 0.1 #combine(hyper-glycemia hyperglycaemia hgs hyperglycaemic hyperglycemic symptom sympt ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest47</number>
-		<text>#combine(sacral ulcer and care care possibilities sacral ulcer )</text>
+		<text>#weight( 0.6 #combine( sacral ulcer care care possibilities sacral ulcer ) 0.3 #combine(ulcus ulcerous ulcers) 0.1 #combine(possibility possible poss careful carefulness ulcus ulcerous ulcers ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest48</number>
-		<text>#combine(HA HA )</text>
+		<text>#combine( ha ha ) 0.4 #combine(  ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest49</number>
-		<text>#combine(white blood cells and bacteria serious bacteria white blood cells )</text>
+		<text>#weight( 0.6 #combine( white blood cells bacteria serious bacteria white blood cells ) 0.3 #combine(cell celled hemal) 0.1 #combine(hematal hematic hemic sanguineous blooded bloody blood vessel bloods sanguinous bloodedness bloodiness vascular sanguinity vascularity sanguine whs bacterium bact. bacterial bacterias seriousness ) )</text>
 	</query>
 	<query>
 		<type>indri</type>
 		<number>qtest50</number>
-		<text>#combine(Hypogammaglobulinemia Hypogammaglobulinemia death serious )</text>
+		<text>#weight( 0.6 #combine( hypogammaglobulinemia hypogammaglobulinemia death serious ) 0.3 #combine(seriousness hypo-gamma globulinaemia hypo-gamma globulinemia) 0.1 #combine(hypo-gamma-globulinaemia hypo-gamma-globulinemia hypo-gammaglobulinaemia hypo-gammaglobulinemia hypogamma-globulinaemia hypogamma-globulinemia hypogammaglobulinaemia hgg hypo-gammaglobulinaemic hypo-gammaglobulinemic hypogammaglobulinaemic hypogammaglobulinemic ) )</text>
 	</query>
 </parameters>
