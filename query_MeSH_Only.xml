@@ -1,0 +1,252 @@
+<parameters>
+	<query>
+		<type>indri</type>
+		<number>qtest1</number>
+		<text>#weight( 0.6 #combine( coronary artery disease what coronary artery disease mean ) 0.3 #combine(dis mal mals) 0.1 #combine(diseases multiangle light scattering arterial arterious arteria arteriae arteriosity aas cor cors dis mal mals diseases multiangle light scattering arterial arterious arteria arteriae arteriosity aas cor cors ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2</number>
+		<text>#weight( 0.6 #combine( sepsis could sepsis cause death ) 0.3 #combine(septic septicity septic) 0.1 #combine(septicity ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest3</number>
+		<text>#weight( 0.6 #combine( l hemopneumothorax what late complications hemopneumothorax ) 0.3 #combine(haemo-pneumothorax haemopneumothorax hemo-pneumothorax) 0.1 #combine(complication comp comps complicated complicacy complicatedness haemo-pneumothorax haemopneumothorax hemo-pneumothorax ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest4</number>
+		<text>#weight( 0.6 #combine( anoxic brain injury can experience pain severe brain injury ) 0.3 #combine(inj brainy braininess) 0.1 #combine(sev pain experience pns torminal painful pains painfulness experiential inj brainy braininess anoxia anoxias ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest5</number>
+		<text>#weight( 0.6 #combine( upper gastrointestinal bleed what causes gastrointestinal bleeding ) 0.3 #combine(phlebotomize bleeds gis) 0.1 #combine(cause phlebotomize bleeds gis ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest6</number>
+		<text>#weight( 0.6 #combine( aortic stenosis what aortic stenosis treated ) 0.3 #combine(treat sten stenotic) 0.1 #combine(stenoticity sten stenotic stenoticity ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest7</number>
+		<text>#weight( 0.6 #combine( dropped gallstone abscess flank how dropped gallstone abscess common ) 0.3 #combine(abcess abscessed abscession) 0.1 #combine(gall stone gall-stone gss drop abcess abscessed abscession gall stone gall-stone gss drop ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest8</number>
+		<text>#weight( 0.6 #combine( alcohol withdrawal seizures how dangerous alcohol withdrawal seizures ) 0.3 #combine(seizure wds alcoholic) 0.1 #combine(dangerousness ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest9</number>
+		<text>#weight( 0.6 #combine( right upper lobe pneumonia cavitary lesion  what cavitary lesion mean connection upper lobe pneumonia ) 0.3 #combine(pne pnes pns) 0.1 #combine(pneumonic lung lungs pneumal pulmonary pulmonic pulmonal lobar lobed lobedness connexion connected connectional connectedness lesional lesioned lesional lesioned pne pnes pns pneumonic lung lungs pneumal pulmonary pulmonic pulmonal lobar lobed lobedness rightful rightfulness ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest10</number>
+		<text>#weight( 0.6 #combine( traumatic brain injury status post fall what consequences brain injury ) 0.3 #combine(inj brainy braininess) 0.1 #combine(consequence consequent consequential consequentiality dowel dowels postal posts sts inj brainy braininess trs ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest11</number>
+		<text>#weight( 0.6 #combine( aspiration pneumonia due misplacement dobhoff tube what dobhoff tube caused pneumonia ) 0.3 #combine(pne pnes pns) 0.1 #combine(pneumonic lung lungs pneumal pulmonary pulmonic pulmonal cause tubal tubal pne pnes pns pneumonic lung lungs pneumal pulmonary pulmonic pulmonal aspirational ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest12</number>
+		<text>#weight( 0.6 #combine( hepatic encephalopathy what hepatic encephalopathy cause confusion ) 0.3 #combine(confused confusional encephalopathic) 0.1 #combine(encephalopathic ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest13</number>
+		<text>#weight( 0.6 #combine( status post narrow field laryngectomy what narrow field laryngectomy ) 0.3 #combine(dowel dowels postal) 0.1 #combine(posts sts ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest14</number>
+		<text>#weight( 0.6 #combine( myocardial infarction what myocardial infarction ) 0.3 #combine(infarcted infarctional infarct) 0.1 #combine(infarcts myo-cardial myocardiac myocardia myocardium infarcted infarctional infarct infarcts myo-cardial myocardiac myocardia myocardium ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest15</number>
+		<text>#weight( 0.6 #combine( non cell lung cancer is lung cancer hereditary ) 0.3 #combine(hereditariness carcinomatous cas) 0.1 #combine(cancerous cancers cancerosity cancerousness pneumal pneumonic pulmonary pulmonic lungs pul pulm pulmonal pneumonia pneumoniae pneumonias pne pnes pns carcinomatous cas cancerous cancers cancerosity cancerousness lung cell lcs pneumal pneumonic pulmonary pulmonic lungs pul pulm pulmonal pneumonia pneumoniae pneumonias pne pnes pns celled ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest16</number>
+		<text>#weight( 0.6 #combine( stroke respiratory failure are stroke respiratory failure linked ) 0.3 #combine(link ictal sts) 0.1 #combine(strokes ictal sts strokes ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest17</number>
+		<text>#weight( 0.6 #combine( chronic duodenal ulcer how common ulcer starts bleed ) 0.3 #combine(phlebotomize bleeding bleeds) 0.1 #combine(start ulcus ulcerous ulcers duodenum duodenums ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest18</number>
+		<text>#weight( 0.6 #combine( dizziness hypotension how prevent dizziness hypotension ) 0.3 #combine(dizzyness dinical giddiness) 0.1 #combine(dizzy giddy dizzyness dinical giddiness dizzy giddy ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest19</number>
+		<text>#weight( 0.6 #combine( l common carotid aneurysm what common carotid aneurysm ) 0.3 #combine(aneurism ans aneurismal) 0.1 #combine(aneurysmal aneurysmic aneurysma aneurysmata aneurism ans aneurismal aneurysmal aneurysmic aneurysma aneurysmata ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest20</number>
+		<text>#weight( 0.6 #combine( subdural hematoma what subdural hematoma recover ) 0.3 #combine(haematoma sub-dural haematoma) 0.1 #combine(sub-dural ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest21</number>
+		<text>#weight( 0.6 #combine( renal failure how dangerous renal failure recurring ) 0.3 #combine(recur ren dangerousness) 0.1 #combine(ren ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest22</number>
+		<text>#weight( 0.6 #combine( suicidal ideation is common suicidal ideation recurring ) 0.3 #combine(recur ideational suicidality) 0.1 #combine(suicide suicides ideational suicidality suicide suicides ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest23</number>
+		<text>#weight( 0.6 #combine( coronary artery bypass how effective coronary artery bypass curing disease ) 0.3 #combine(dis mal mals) 0.1 #combine(diseases multiangle light scattering cure by-pass arterial arterious arteria arteriae arteriosity aas cor cors effectiveness effectivity by-pass bps cor cors ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest24</number>
+		<text>#weight( 0.6 #combine( diabetes type 1 heart how diabetes type influence heart function ) 0.3 #combine(funct functional funct) 0.1 #combine(functionality hts hearted heartful influential typal ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest25</number>
+		<text>#weight( 0.6 #combine( cerebrovascular accident what cerebrovascular accident ) 0.3 #combine(acc accs accidental) 0.1 #combine(accidentality cvs acc accs accidental accidentality cvs ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest26</number>
+		<text>#weight( 0.6 #combine( gastrointestinal bleed what cause gastrointestinal bleed common ) 0.3 #combine(phlebotomize bleeding bleeds) 0.1 #combine(gis phlebotomize bleeding bleeds gis ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest27</number>
+		<text>#weight( 0.6 #combine( aortic valve replacement arv what aortic valve replacement ) 0.3 #combine(valval valvar valved) 0.1 #combine(valva valvae adelaide river virus aids associated retrovirus aids-associated retrovirus anti-retroviral anti-retroviral drug anti-retroviral therapy antiretroviral antiretroviral drug antiretroviral therapy average rectified value avian reovirus aids-associated retroviruses antiretroviral drugs antiretroviral therapies antiretrovirals average rectified values avian reoviruses valval valvar valved valva valvae ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest28</number>
+		<text>#weight( 0.6 #combine( intermittent abdominal pain what cause abdominal pain ) 0.3 #combine(pns torminal painful) 0.1 #combine(pains painfulness abd abds abs pns torminal painful pains painfulness abd abds abs intermittence intermittency ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest29</number>
+		<text>#weight( 0.6 #combine( aortic stenosis status post aortic valve replacement recovery how convalescence aortic valve operation ) 0.3 #combine(ops operational operationality) 0.1 #combine(valval valvar valved valva valvae convalescent rec dowel dowels postal posts sts sten stenotic stenoticity ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest30</number>
+		<text>#weight( 0.6 #combine( tracheobronchomalacia how severe disease tracheobronchomalacia ) 0.3 #combine(tracheo-bronchomalacia tbm dis) 0.1 #combine(mal mals diseases multiangle light scattering sev ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest31</number>
+		<text>#weight( 0.6 #combine( acute renal failure could acute renal failure cause death ) 0.3 #combine(ren acs ren) 0.1 #combine(acs ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest32</number>
+		<text>#weight( 0.6 #combine( advices patient acute infartus myocardi what causes myocardial infarction avoided ) 0.3 #combine(avoid infarcted infarctional) 0.1 #combine(infarct infarcts myo-cardial myocardiac myocardia myocardium cause acs pts advice ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest33</number>
+		<text>#weight( 0.6 #combine( repiratory failure chf what connections respiratory failure chf ) 0.3 #combine(chick embryo fibroblast congenital hepatic fibrosis congestive heart failure) 0.1 #combine(crimean haemorrhagic fever crimean hemorrhagic fever chick embryo fibroblasts connection connected connectional connectedness chick embryo fibroblast congenital hepatic fibrosis congestive heart failure crimean haemorrhagic fever crimean hemorrhagic fever chick embryo fibroblasts ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest34</number>
+		<text>#weight( 0.6 #combine( bleeding hip operation what cause laceration femoral artery hip replacement operation ) 0.3 #combine(ops operational operationality) 0.1 #combine(arterial arterious arteria arteriae arteriosity aas fem ops operational operationality ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest35</number>
+		<text>#weight( 0.6 #combine( peptic ulcer disease what food recommended diagnosed peptic ulcer ) 0.3 #combine(ulcus ulcerous ulcers) 0.1 #combine(digestion digestions diagnose recommend alimentary cibarian foods aliment alimental dis mal mals diseases multiangle light scattering ulcus ulcerous ulcers digestion digestions ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest36</number>
+		<text>#weight( 0.6 #combine( convalescence pelvic fracture superior rami fracture how convalescence pelvic fracture superior rami fracture ) 0.3 #combine(fxs fractural ramus) 0.1 #combine(convalescent ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest37</number>
+		<text>#weight( 0.6 #combine( causes gynecolocigal bleeding what causes massive gynecological bleeding ) 0.3 #combine(bleed phlebotomize bleeds) 0.1 #combine(gyn gyns massiveness massivity cause bleed phlebotomize bleeds cause ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest38</number>
+		<text>#weight( 0.6 #combine( causes oesophagus bleeding what causes oesophagus bleeding ) 0.3 #combine(bleed phlebotomize bleeds) 0.1 #combine(esophagus eso esoph cause bleed phlebotomize bleeds esophagus eso esoph cause ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest39</number>
+		<text>#weight( 0.6 #combine( surviving rates secondary myocardial infarctus what probability surviving myocardial infarction ) 0.3 #combine(infarcted infarctional infarct) 0.1 #combine(infarcts myo-cardial myocardiac myocardia myocardium survive prob. probable prob. myo-cardial myocardiac myocardia myocardium rate survive ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest40</number>
+		<text>#weight( 0.6 #combine( bilateral pulmonary contusions safety belt what bilateral pulmonary contusions avoided car accident ) 0.3 #combine(acc accs accidental) 0.1 #combine(accidentality cancer associated retinopathy cancer-associated retinopathy carvedilol cell adhesion regulator chronic articular rheumatism congenital articular rigidity cancer-associated retinopathies cell adhesion regulators avoid contusion contusional contusioned pul puls bil bils saf safe safer safeness contusion contusional contusioned pul puls bil bils ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest41</number>
+		<text>#weight( 0.6 #combine( pancreatic pseudocyst alcohol consumption what connection pancreatic pseudocyst alcohol ) 0.3 #combine(alcoholic pseudo cyst pseudo-cyst) 0.1 #combine(pseudocystic pseudocystis connexion connected connectional connectedness alcoholic pseudo cyst pseudo-cyst pseudocystic pseudocystis ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest42</number>
+		<text>#weight( 0.6 #combine( foramen ovale what foramen ovale causes ) 0.4 #combine( cause ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest43</number>
+		<text>#weight( 0.6 #combine( coronary artery disease insulin dependent diabetes mellitus what influence insulindependent diabetes mellitus coronary artery disease ) 0.3 #combine(dis mal mals) 0.1 #combine(diseases multiangle light scattering arterial arterious arteria arteriae arteriosity aas cor cors influential dependant iletin ins insulins dis mal mals diseases multiangle light scattering arterial arterious arteria arteriae arteriosity aas cor cors ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest44</number>
+		<text>#weight( 0.6 #combine( i avoid bowel obstruction what causes bowel obstruction disease avoided ) 0.3 #combine(dis mal mals) 0.1 #combine(diseases multiangle light scattering cause ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest45</number>
+		<text>#weight( 0.6 #combine( group a streptococcus bacteremia what group streptococcus bacteremia mean ) 0.3 #combine(bacteraemia bacteriaemia bacteriemia) 0.1 #combine(bacteraemic bacteremic bacteriaemic bacteriemic str. strep strept. gps gr. grs bacteraemia bacteriaemia bacteriemia bacteraemic bacteremic bacteriaemic bacteriemic str. strep strept. gps gr. grs ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest46</number>
+		<text>#weight( 0.6 #combine( complications type 1 diabetes mellitus what longterm shortterm complications type diabetes mellitus ) 0.3 #combine(typal complication comp) 0.1 #combine(comps complicated complicacy complicatedness short term short-term long term long-term typal complication comp comps complicated complicacy complicatedness ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest47</number>
+		<text>#weight( 0.6 #combine( tretament subarachnoid hemorrage what treatments subarachnoid hemorrage ) 0.3 #combine(sub-arachnoid treatment txs) 0.1 #combine(sub-arachnoid ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest48</number>
+		<text>#weight( 0.6 #combine( white blood cells withmoderatebacteria urinanalysis what mean white blood cells moderate bacteria urinanalysis ) 0.3 #combine(bacterium bact. bacterial) 0.1 #combine(bacterias cell celled hemal hematal hematic hemic sanguineous blooded bloody blood vessel bloods sanguinous bloodedness bloodiness vascular sanguinity vascularity sanguine whs cell celled hemal hematal hematic hemic sanguineous blooded bloody blood vessel bloods sanguinous bloodedness bloodiness vascular sanguinity vascularity sanguine whs ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest49</number>
+		<text>#weight( 0.6 #combine( chronic lymphocytic leukemia hereditarity is chronic lymphocytic leukemia hereditary ) 0.3 #combine(hereditariness leucaemia leucemia) 0.1 #combine(leukaemia leuk leucaemic leucemic leukaemic leukemic leuk leucaemia leucemia leukaemia leuk leucaemic leucemic leukaemic leukemic leuk ) )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest50</number>
+		<text>#combine( cerebralaneurysm what cerebralaneurysm ) 0.4 #combine(  ) )</text>
+	</query>
+</parameters>
