@@ -18,11 +18,11 @@ do
 		#k is for weights
 		for k in 0 0.5 1
 		do
-			cd 2013data/			
-			IndriRunQuery -memory=1G -index="../indexed_WO_data/" -count=100 "q5_indri.xml" -trecFormat=true -fbDocs=$i -fbTerms=$j -fbOrigWeight=$k > $FILENAME
+			#cd 2013data/			
+			IndriRunQuery -memory=1G -index="../indexed_data" -count=100 "../Queries/queries.clef2014ehealth.1-50.test.en.INDRI.xml" -trecFormat=true -fbDocs=$i -fbTerms=$j -fbOrigWeight=$k > $FILENAME
 			cd ..
 			cd trec_eval.9.0/
-			./trec_eval ../2013data/qrels.clef2013ehealth.1-50-test.bin.final.txt ../2013data/$FILENAME > evals/$OUTPUTFILE
+			./trec_eval ../Queries/qrels.clef2013ehealth.1-50-test.bin.final.txt ../CLEF-eHealth/$FILENAME > evals/$OUTPUTFILE
 			cd evals/
 			newval=$(python result_analysis.py 2>&1)
 			#put result_analysis.py in trec_eval.9.0/evals/
