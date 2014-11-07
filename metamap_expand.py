@@ -16,7 +16,7 @@ q_file_name = sys.argv[1]
 out_file_name = sys.argv[2]
 d = enchant.Dict("en_us")
 #fr = open("q.xml",'r');
-fw = open('queries_MeSH_expandex.xml', 'w')
+fw = open(out_file_name, 'w')
 fr = open("stopwords.txt",'r')
 fread = open("medical_words.txt", 'r')
 
