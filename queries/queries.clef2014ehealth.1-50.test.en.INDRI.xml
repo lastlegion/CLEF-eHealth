@@ -1,0 +1,252 @@
+<parameters>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.1</number>
+		<text>#combine(Coronary artery disease What does coronary artery disease mean  )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.2</number>
+		<text>#combine(Sepsis Could sepsis be the cause of death )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.3</number>
+		<text>#combine(L hemopneumothorax What are the late complications of hemopneumothorax )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.4</number>
+		<text>#combine(Anoxic brain injury Can one experience pain if there is a severe brain injury )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.5</number>
+		<text>#combine(Upper gastrointestinal bleed What are the possible causes of gastrointestinal bleeding )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.6</number>
+		<text>#combine(Aortic stenosis What is aortic stenosis and how is it treated )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.7</number>
+		<text>#combine(Dropped gallstone abscess right flank How can one get a dropped gallstone abscess and are they common )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.8</number>
+		<text>#combine(Alcohol withdrawal seizures How dangerous are alcohol withdrawal seizures )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.9</number>
+		<text>#combine(Right upper lobe pneumonia with cavitary lesion  What does cavitary lesion mean in connection with upper lobe pneumonia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.10</number>
+		<text>#combine(Traumatic brain injury status post fall What are the possible consequences of brain injury )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.11</number>
+		<text>#combine(aspiration pneumonia due to misplacement of dobhoff tube What is a dobhoff tube and why has it caused pneumonia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.12</number>
+		<text>#combine(hepatic encephalopathy What is hepatic encephalopathy and why does it cause confusion )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.13</number>
+		<text>#combine(Status post narrow field laryngectomy What is narrow field laryngectomy )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.14</number>
+		<text>#combine(Myocardial infarction What is myocardial infarction )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.15</number>
+		<text>#combine(Non small cell lung cancer Is lung cancer hereditary  )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.16</number>
+		<text>#combine(stroke and respiratory failure Are stroke and respiratory failure linked together )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.17</number>
+		<text>#combine(chronic duodenal ulcer How common is it that the ulcer starts to bleed again )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.18</number>
+		<text>#combine(dizziness and hypotension How to prevent dizziness and hypotension )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.19</number>
+		<text>#combine(L common carotid aneurysm What is common carotid aneurysm )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.20</number>
+		<text>#combine(subdural hematoma What is subdural hematoma and can one recover from it )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.21</number>
+		<text>#combine(renal failure How dangerous is renal failure and is it recurring )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.22</number>
+		<text>#combine(suicidal ideation Is it common for suicidal ideation to keep recurring )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.23</number>
+		<text>#combine(coronary artery bypass How effective is coronary artery bypass in curing the disease )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.24</number>
+		<text>#combine(Diabetes type 1 and heart problems How does diabetes type 1 influence heart function )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.25</number>
+		<text>#combine(cerebrovascular accident What is cerebrovascular accident )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.26</number>
+		<text>#combine(gastrointestinal bleed What can cause gastrointestinal bleed and is it common to have it more than once )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.27</number>
+		<text>#combine(aortic valve replacement ARV What is aortic valve replacement )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.28</number>
+		<text>#combine(intermittent abdominal pain What can cause abdominal pain )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.29</number>
+		<text>#combine(Aortic stenosis status post aortic valve replacement and recovery How long is the convalescence after an aortic valve operation )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.30</number>
+		<text>#combine(Tracheobronchomalacia How severe of a disease is tracheobronchomalacia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.31</number>
+		<text>#combine(Acute renal failure Could an acute renal failure cause death )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.32</number>
+		<text>#combine(advices for patient with Acute infartus myocardi What are the causes of myocardial infarction and how can they be avoided )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.33</number>
+		<text>#combine(Repiratory failure and CHF What are the connections between respiratory failure and CHF  )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.34</number>
+		<text>#combine(bleeding after hip operation What could cause a laceration in the femoral artery after a hip replacement operation )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.35</number>
+		<text>#combine(Peptic Ulcer disease What kind of food is recommended after being diagnosed with peptic ulcer )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.36</number>
+		<text>#combine(convalescence after an open pelvic fracture and a right superior rami fracture How long is the convalescence after a right open pelvic fracture and a right superior rami fracture )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.37</number>
+		<text>#combine(causes for gynecolocigal bleeding What are the causes of massive gynecological bleeding )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.38</number>
+		<text>#combine(causes for oesophagus bleeding What are the causes of oesophagus bleeding )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.39</number>
+		<text>#combine(surviving rates after a secondary myocardial infarctus What is the probability of surviving a second myocardial infarction )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.40</number>
+		<text>#combine(Bilateral pulmonary contusions and safety belt What are bilateral pulmonary contusions and could they have been avoided in a car accident )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.41</number>
+		<text>#combine(Pancreatic Pseudocyst and alcohol consumption What is the connection between pancreatic pseudocyst and alcohol )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.42</number>
+		<text>#combine(foramen ovale What is foramen ovale and what are its causes )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.43</number>
+		<text>#combine(coronary artery disease and insulin dependent diabetes mellitus What is the influence of insulindependent diabetes mellitus on coronary artery disease )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.44</number>
+		<text>#combine(how can I avoid small bowel obstruction What are the causes of small bowel obstruction and how could the disease be avoided )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.45</number>
+		<text>#combine(Group A streptococcus bacteremia What does Group A streptococcus bacteremia mean )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.46</number>
+		<text>#combine(complications of type 1 diabetes mellitus What are the longterm and shortterm complications of type 1 diabetes mellitus )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.47</number>
+		<text>#combine(tretament for subarachnoid hemorrage What are the treatments for subarachnoid hemorrage )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.48</number>
+		<text>#combine(White blood cells withmoderatebacteria in urinanalysis What does it mean to have  white blood cells with moderate bacteria in urinanalysis  )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.49</number>
+		<text>#combine(Chronic lymphocytic leukemia and hereditarity Is chronic lymphocytic leukemia hereditary )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.50</number>
+		<text>#combine(Cerebralaneurysm What is cerebralaneurysm )</text>
+	</query>
+</parameters>
