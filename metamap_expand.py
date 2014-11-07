@@ -1,13 +1,22 @@
+#Usage:
+#python query_to_indri.py <input query file> <output query file>
+
 import os
 from xml.dom import minidom
+import sys
 import enchant
 import subprocess
 import re
 
-#d=enchant.DictWithPWL("en_us","medical_terms.txt")
+
+
+print "Opening "+str(sys.argv[1])
+print "Writing to " + str(sys.argv[2]) 
+q_file_name = sys.argv[1]
+out_file_name = sys.argv[2]
 d = enchant.Dict("en_us")
 #fr = open("q.xml",'r');
-fw = open('q5_indri2.xml', 'w')
+fw = open('queries_MeSH_expandex.xml', 'w')
 fr = open("stopwords.txt",'r')
 fread = open("medical_words.txt", 'r')
 
@@ -23,7 +32,9 @@ for line in fr:
         stopwords.append(line.strip())
 #print stopwords
 
-xmldoc = minidom.parse('queries.clef2013ehealth.1-50.test.xml')
+print "Loaded stopwords"
+
+xmldoc = minidom.parse(q_file_name)
 qlist = xmldoc.getElementsByTagName('desc')
 tlist = xmldoc.getElementsByTagName('title')
 count=0
@@ -37,6 +48,7 @@ for query in qlist:
     fw.write('\t\t<text>')
     ind_q = []
     main_q = []
+    print "Processing "+str(count+1)
 
     #Title tag
     for term in tlist[count].childNodes[0].nodeValue.split(" "):
@@ -50,17 +62,20 @@ for query in qlist:
     for term in query.childNodes[0].nodeValue.split(" "):
         #Clean term(remove extra chars)
         term = ''.join(e for e in term if e.isalnum())
+
         if term not in stopwords and len(term)>=2:
 	        ind_q.insert(0, term.lower())
                 main_q.append(term.lower())
             #fw.write(term + " ")
 
     #Expand using spellchecker
+    '''
     for term in ind_q:
         if not d.check(term):
             correctedList = d.suggest(term)
             ind_q.append(correctedList[0])
             main_q.append(term.lower())
+    '''
     #fw.write(main_q)    
     ind_q_str = ' '.join(ind_q) 
 
