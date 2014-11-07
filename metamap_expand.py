@@ -44,7 +44,7 @@ IND_Qs = [[]]
 for query in qlist:
     fw.write('\t<query>\n')
     fw.write('\t\t<type>indri</type>\n')
-    fw.write('\t\t<number>qtest' + str(count+1)+ '</number>\n')
+    fw.write('\t\t<number>qtest2014.' + str(count+1)+ '</number>\n')
     fw.write('\t\t<text>')
     ind_q = []
     main_q = []

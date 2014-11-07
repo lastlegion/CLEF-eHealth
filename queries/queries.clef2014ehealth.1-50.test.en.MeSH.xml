@@ -1,0 +1,252 @@
+<parameters>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.1</number>
+		<text>#combine(coronary artery disease what coronary artery disease mean) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.2</number>
+		<text>#combine(sepsis could sepsis cause death) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.3</number>
+		<text>#combine(l hemopneumothorax what late complications hemopneumothorax) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.4</number>
+		<text>#combine(anoxic brain injury can experience pain severe brain injury) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.5</number>
+		<text>#combine(upper gastrointestinal bleed what causes gastrointestinal bleeding) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.6</number>
+		<text>#combine(aortic stenosis what aortic stenosis treated) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.7</number>
+		<text>#combine(dropped gallstone abscess flank how dropped gallstone abscess common) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.8</number>
+		<text>#combine(alcohol withdrawal seizures how dangerous alcohol withdrawal seizures) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.9</number>
+		<text>#combine(right upper lobe pneumonia cavitary lesion  what cavitary lesion mean connection upper lobe pneumonia) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.10</number>
+		<text>#combine(traumatic brain injury status post fall what consequences brain injury) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.11</number>
+		<text>#combine(aspiration pneumonia due misplacement dobhoff tube what dobhoff tube caused pneumonia) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.12</number>
+		<text>#combine(hepatic encephalopathy what hepatic encephalopathy cause confusion) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.13</number>
+		<text>#combine(status post narrow field laryngectomy what narrow field laryngectomy) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.14</number>
+		<text>#combine(myocardial infarction what myocardial infarction) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.15</number>
+		<text>#combine(non cell lung cancer is lung cancer hereditary) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.16</number>
+		<text>#combine(stroke respiratory failure are stroke respiratory failure linked) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.17</number>
+		<text>#combine(chronic duodenal ulcer how common ulcer starts bleed) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.18</number>
+		<text>#combine(dizziness hypotension how prevent dizziness hypotension) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.19</number>
+		<text>#combine(l common carotid aneurysm what common carotid aneurysm) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.20</number>
+		<text>#combine(subdural hematoma what subdural hematoma recover) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.21</number>
+		<text>#combine(renal failure how dangerous renal failure recurring) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.22</number>
+		<text>#combine(suicidal ideation is common suicidal ideation recurring) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.23</number>
+		<text>#combine(coronary artery bypass how effective coronary artery bypass curing disease) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.24</number>
+		<text>#combine(diabetes type 1 heart how diabetes type influence heart function) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.25</number>
+		<text>#combine(cerebrovascular accident what cerebrovascular accident) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.26</number>
+		<text>#combine(gastrointestinal bleed what cause gastrointestinal bleed common) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.27</number>
+		<text>#combine(aortic valve replacement arv what aortic valve replacement) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.28</number>
+		<text>#combine(intermittent abdominal pain what cause abdominal pain) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.29</number>
+		<text>#combine(aortic stenosis status post aortic valve replacement recovery how convalescence aortic valve operation) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.30</number>
+		<text>#combine(tracheobronchomalacia how severe disease tracheobronchomalacia) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.31</number>
+		<text>#combine(acute renal failure could acute renal failure cause death) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.32</number>
+		<text>#combine(advices patient acute infartus myocardi what causes myocardial infarction avoided) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.33</number>
+		<text>#combine(repiratory failure chf what connections respiratory failure chf) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.34</number>
+		<text>#combine(bleeding hip operation what cause laceration femoral artery hip replacement operation) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.35</number>
+		<text>#combine(peptic ulcer disease what food recommended diagnosed peptic ulcer) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.36</number>
+		<text>#combine(convalescence pelvic fracture superior rami fracture how convalescence pelvic fracture superior rami fracture) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.37</number>
+		<text>#combine(causes gynecolocigal bleeding what causes massive gynecological bleeding) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.38</number>
+		<text>#combine(causes oesophagus bleeding what causes oesophagus bleeding) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.39</number>
+		<text>#combine(surviving rates secondary myocardial infarctus what probability surviving myocardial infarction) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.40</number>
+		<text>#combine(bilateral pulmonary contusions safety belt what bilateral pulmonary contusions avoided car accident) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.41</number>
+		<text>#combine(pancreatic pseudocyst alcohol consumption what connection pancreatic pseudocyst alcohol) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.42</number>
+		<text>#combine(foramen ovale what foramen ovale causes) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.43</number>
+		<text>#combine(coronary artery disease insulin dependent diabetes mellitus what influence insulindependent diabetes mellitus coronary artery disease) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.44</number>
+		<text>#combine(i avoid bowel obstruction what causes bowel obstruction disease avoided) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.45</number>
+		<text>#combine(group a streptococcus bacteremia what group streptococcus bacteremia mean) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.46</number>
+		<text>#combine(complications type 1 diabetes mellitus what longterm shortterm complications type diabetes mellitus) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.47</number>
+		<text>#combine(tretament subarachnoid hemorrage what treatments subarachnoid hemorrage) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.48</number>
+		<text>#combine(white blood cells withmoderatebacteria urinanalysis what mean white blood cells moderate bacteria urinanalysis) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.49</number>
+		<text>#combine(chronic lymphocytic leukemia hereditarity is chronic lymphocytic leukemia hereditary) 0.4 #combine())</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.50</number>
+		<text>#combine(cerebralaneurysm what cerebralaneurysm) 0.4 #combine())</text>
+	</query>
+</parameters>
