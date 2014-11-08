@@ -85,6 +85,7 @@ for query in qlist:
     p = subprocess.Popen('echo "'+ ind_q_str +'"| metamap13 -v -a -O -T --bracketed_output -K -Y', shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
     state = "none"
     for line in p.stdout.readlines():
+        #print line
         line = line.strip()
         if(line == ">>>>> Variants"):
             state = "variants"
@@ -93,21 +94,27 @@ for query in qlist:
             if(re.match(r'[0-9].*', line.strip(),re.M|re.I)):
                 s = re.search(r'[0-9]*:(.*){.*}',line, re.M|re.I)
                 #print s.group(1).strip()
+                print s
                 if(s):
                     expansion_term = s.group(1).strip()
                 
                 #Add expansion term
                 if(expansion_term not in ind_q):
                     #ind_q.append(expansion_term)
+                    print expansion_term
                     mesh_q.append(expansion_term)
+                    #ind_q_str = ind_q_str + " " + expansion_term
                     #print "here"
         if(line == "<<<<< Variants"):
             state="none"
-   
+    
+    
     ind_q_str = ' '.join(ind_q)    
     main_q_str = ' '.join(main_q)
     mesh_q_str_1= ' '.join(mesh_q[0:3])
     mesh_q_str_2 = ' '.join(mesh_q[3:len(mesh_q)])
+    #ind_q_str = ind_q_str + main_q_str+ mesh_q_str_1+mesh_q_str_2
+    
     #print mesh_q 
     #print mesh_q_str_1
     #print mesh_q_str_2
@@ -133,6 +140,7 @@ for query in qlist:
         fw.write(mesh_q_str_1)
         fw.write(")")
     
+    #fw.write("#combine("+ind_q_str+")")
     fw.write(")")
     fw.write('</text>\n')
     fw.write('\t</query>\n')
