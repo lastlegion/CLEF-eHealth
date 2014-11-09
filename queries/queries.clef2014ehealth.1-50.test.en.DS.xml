@@ -1,0 +1,252 @@
+<parameters>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.1</number>
+		<text>#combine( coronary artery disease what coronary artery disease mean  arthritis carpal tunnel shingles arm  knee replacement left knee replacement  thyroidectomy  cholecystectomy  hysterectomy  ho LGIB  taking baby ASA  QOD )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.2</number>
+		<text>#combine( sepsis could sepsis cause death PUD sp R AKA  dementia CVA GIB coumadin ho DVT )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.3</number>
+		<text>#combine( l hemopneumothorax what late complications hemopneumothorax Unknown congenitcal spine abnormality )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.4</number>
+		<text>#combine( anoxic brain injury can experience pain severe brain injury multiple strokes significant event  ago resultant left hemiparesis Has wheelchair bound time atrial fibrillation warfarin discontinued  days PTA supratherapeutic level history congenital heart defect unclear exact etiology nephrolithiasis history blood clot bowel congestive heart failure EF unknown )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.5</number>
+		<text>#combine( upper gastrointestinal bleed what causes gastrointestinal bleeding)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.6</number>
+		<text>#combine( aortic stenosis what aortic stenosis treated Myocardial infarction  CABGx  Atrial fibrillation  Failed cardioversion  SP TURP Past Pneumoniasepsis Hyperlipidemia Hypercholesterolemia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.7</number>
+		<text>#combine( dropped gallstone abscess flank how dropped gallstone abscess common  CAD  CABG   anterior MI age   CHF EF  sp cardiac resynchronization biv pacer placement  hypertension  dyslipidemia  ccy   remote motor vehicle accident )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.8</number>
+		<text>#combine( alcohol withdrawal seizures how dangerous alcohol withdrawal seizures)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.9</number>
+		<text>#combine( right upper lobe pneumonia cavitary lesion  what cavitary lesion mean connection upper lobe pneumonia None )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.10</number>
+		<text>#combine( traumatic brain injury status post fall what consequences brain injury PMHx  Seizure   Pneumonia   Bronchitis   Numerous visits Doctor First Name  sp alcoholic episodes various falls episodes unconsciousness )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.11</number>
+		<text>#combine( aspiration pneumonia due misplacement dobhoff tube what dobhoff tube caused pneumonia PMH Amyloidosis depression kidney stones hx tubal ligation L hip replacement )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.12</number>
+		<text>#combine( hepatic encephalopathy what hepatic encephalopathy cause confusion)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.13</number>
+		<text>#combine( status post narrow field laryngectomy what narrow field laryngectomy)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.14</number>
+		<text>#combine( myocardial infarction what myocardial infarction)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.15</number>
+		<text>#combine( non cell lung cancer is lung cancer hereditary  PMH  NSCLC former smoker originally PCP  cough  mo CXR lg Rlung mass CT upper lobe posterior segment mass abutting chest wall invading enlarged upper R paratracheal node lower R paratracheal node sp TBNA mediastinal LAD  highly atypical cells suggestive NSCLC CTguided biopsy lung mass  confirming NSCLC MRI brain negative met sp  cycles cisplatinumetoposide  XRT completed  Had PET scan  HTN son meds normotensive  Hypercholesterolemia  LBP )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.16</number>
+		<text>#combine( stroke respiratory failure are stroke respiratory failure linked  Aortic valve replacementCoronary artery bypass graft LIMA graft   Righthip replacemt  revision  Hypertension  Ankylosing spondylitis  Right thoracoscopy multiple wedge excisions  multiple intercostal nerve blocks  Left pleural effusion trapped left lower lobe fibrothorax   Hypertension )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.17</number>
+		<text>#combine( chronic duodenal ulcer how common ulcer starts bleed)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.18</number>
+		<text>#combine( dizziness hypotension how prevent dizziness hypotension PMHx  COPD  Schizoaffective Disorder  Ulcerative Colitis sp sigmoidectomy   Suicidal Ideation Psychiatrist Dr First Name NamePattern  Last Name NamePattern  TelephoneFax    sp diverticular rupture colostomy reversal colostomy  Osteoarthritis  ho rheumatic fever Sydenhams chorea  Duodenal ulcer  Orthostatic Hypotension )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.19</number>
+		<text>#combine( l common carotid aneurysm what common carotid aneurysm seizures GERD left common carotid aneursym )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.20</number>
+		<text>#combine( subdural hematoma what subdural hematoma recover)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.21</number>
+		<text>#combine( renal failure how dangerous renal failure recurring)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.22</number>
+		<text>#combine( suicidal ideation is common suicidal ideation recurring  Schizoaffective disorder sp multiple suicide attempts recent  OD motrin originally admitted Hospital   suicidal  Anxiety  hepatitis C  head Injury  Bendoziadepine withdrawl seizure  sp Motrin OD  heroin abuse  Drug abuse  sp ECT  alcaholic hepatitis hx EtOH abuse hx DTs )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.23</number>
+		<text>#combine( coronary artery bypass how effective coronary artery bypass curing disease)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.24</number>
+		<text>#combine( diabetes type 1 heart how diabetes type 1 influence heart function)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.25</number>
+		<text>#combine( cerebrovascular accident what cerebrovascular accident)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.26</number>
+		<text>#combine( gastrointestinal bleed what cause gastrointestinal bleed common  Alcoholism pt actively drinking  pack day treated wd seized  EtOH Cirrhosis sp variceal bleed   inguinal hernia repair   HTN  Pancytopenia secondary EtOHism  sp finger amputation )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.27</number>
+		<text>#combine( aortic valve replacement arv what aortic valve replacement)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.28</number>
+		<text>#combine( intermittent abdominal pain what cause abdominal pain)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.29</number>
+		<text>#combine( aortic stenosis status post aortic valve replacement recovery how convalescence aortic valve operation)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.30</number>
+		<text>#combine( tracheobronchomalacia how severe disease tracheobronchomalacia Hypertension Hypercholesterolemia CAD status post MI sp CABG  GERD OSA Tracheobronchomalacia sp Y stent placement removal  Basal cell carcinoma skin Status post resection Squamous cell carcinoma skin status post resection Melanoma status post resection Prostate cancer diagnosed  status post radical prostatectomy Diverticular disease sp colon resection Cholecystectomy Inguinal hernia repair multiple times time  )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.31</number>
+		<text>#combine( acute renal failure could acute renal failure cause death)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.32</number>
+		<text>#combine( advices patient acute infartus myocardi what causes myocardial infarction avoided Epsteins cardiac valve anomaly congenital Junctional rhythm reentry Right heart dilatation ho syncopal events palpitations Thalassemia minor Hypothyroidism Hypertension Depression Low pain Polycystic ovaries Glaucoma Hypertriglyceridemia )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.33</number>
+		<text>#combine( repiratory failure chf what connections respiratory failure chf  PAST MEDICAL HISTORY  Coronary artery disease status post nonST elevation MI  status post PTCAstent left circumflex status post PTCAstent mid left circumflex  catheterization  twovessel disease  ETT MIBI  significant symptoms EKG changes fixed inferior defect ejection fraction  percent )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.34</number>
+		<text>#combine( bleeding hip operation what cause laceration femoral artery hip replacement operation)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.35</number>
+		<text>#combine( peptic ulcer disease what food recommended diagnosed peptic ulcer HTN Hyperchol ho A fib  yrs ago  cardioverted )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.36</number>
+		<text>#combine( convalescence pelvic fracture superior rami fracture how convalescence pelvic fracture superior rami fracture)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.37</number>
+		<text>#combine( causes gynecolocigal bleeding what causes massive gynecological bleeding)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.38</number>
+		<text>#combine( causes oesophagus bleeding what causes oesophagus bleeding Irregular menstrual cycle LBP sp MVA Htn )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.39</number>
+		<text>#combine( surviving rates secondary myocardial infarctus what probability surviving myocardial infarction)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.40</number>
+		<text>#combine( bilateral pulmonary contusions safety belt what bilateral pulmonary contusions avoided car accident low disc herniation chronic pain )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.41</number>
+		<text>#combine( pancreatic pseudocyst alcohol consumption what connection pancreatic pseudocyst alcohol Alcoholic pancreatitis hyperlipidemia EtOH abuse drink  days ago ho regional thrombosis cirrhosis glaucoma  PSH Jtube removed  Csection tonsillectomy )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.42</number>
+		<text>#combine( foramen ovale what foramen ovale causes)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.43</number>
+		<text>#combine( coronary artery disease insulin dependent diabetes mellitus what influence insulindependent diabetes mellitus coronary artery disease)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.44</number>
+		<text>#combine( i avoid bowel obstruction what causes bowel obstruction disease avoided)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.45</number>
+		<text>#combine( group a streptococcus bacteremia what group a streptococcus bacteremia mean  tuberous sclerosis involvement left kidney resulting L nephrectomy due hemorrhage age   seizure disorder  Gyne history GP LMP  )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.46</number>
+		<text>#combine( complications type 1 diabetes mellitus what longterm shortterm complications type 1 diabetes mellitus)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.47</number>
+		<text>#combine( tretament subarachnoid hemorrage what treatments subarachnoid hemorrage   Enuresis seen Sleep Clinic   Alcohol abuse alcohol    Human immunodeficiency virus diagnosed   History pneumocystis carinii pneumonia  Has HAART  due insurance reasons  Viral load undetectable  )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.48</number>
+		<text>#combine( white blood cells withmoderatebacteria urinanalysis what mean  white blood cells moderate bacteria urinanalysis )</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.49</number>
+		<text>#combine( chronic lymphocytic leukemia hereditarity is chronic lymphocytic leukemia hereditary)</text>
+	</query>
+	<query>
+		<type>indri</type>
+		<number>qtest2014.50</number>
+		<text>#combine( cerebralaneurysm what cerebralaneurysm)</text>
+	</query>
+</parameters>
